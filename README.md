@@ -15,5 +15,9 @@ Linear regression is one of the simplest and most widely used supervised learnin
 
 Model Definition
 
-For a dataset with input features $$\hat{y}​=w_0+w_1​x_1​+w_2​x_2​+ ... +w_d​x_d$$\\
-or in vector form: $$\hat{y} = w^T\mathbf{x}+b$$
+For a dataset with input features 
+
+$$\hat{y}​=w_0+w_1​x_1​+w_2​x_2​+ ... +w_d​x_d$$
+or in vector form
+
+$$\hat{y} = w^T\mathbf{x}+b$$
