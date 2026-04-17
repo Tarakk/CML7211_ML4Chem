@@ -18,9 +18,4 @@ or in vector form
 
 $$\hat{y} = w^T\mathbf{x}+b$$
 
-Goolge colab link: 
-
-## Exercises
-
-| 1    | Linear Regression | <a href="[https://colab.research.google.com](https://colab.research.google.com/drive/18c2jxY9T8Rnaq2LNGYkS-7H6zdkGB6bM?authuser=1)" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
-
+Goolge colab link: https://colab.research.google.com/drive/18c2jxY9T8Rnaq2LNGYkS-7H6zdkGB6bM?authuser=1
