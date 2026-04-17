@@ -10,7 +10,7 @@ Tarak Karmakar (Course instructor)
 
 ## Excercise 
 
-# 1. Linear Regression
-# 2. Dimensionality reduction (PCA and LDA)
-# 3. Neural Network 
-# 4. Graphs and Graph Neural Network
+### 1. Linear Regression
+### 2. Dimensionality reduction (PCA and LDA)
+### 3. Neural Network 
+### 4. Graphs and Graph Neural Network
