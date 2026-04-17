@@ -17,3 +17,6 @@ $$\hat{y}​=w_0+w_1​x_1​+w_2​x_2​+ ... +w_d​x_d$$
 or in vector form
 
 $$\hat{y} = w^T\mathbf{x}+b$$
+
+Goolge colab link: https://colab.research.google.com/drive/18c2jxY9T8Rnaq2LNGYkS-7H6zdkGB6bM?authuser=1
+
