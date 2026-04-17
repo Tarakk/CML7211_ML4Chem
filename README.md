@@ -7,3 +7,8 @@ The excercises provided here are related to the CML7211: Machine Learning for Ch
 ## Contributors
 Tarak Karmakar (Course instructor)
 
+
+## Excercise 
+
+# 1. Linear Regression
+
