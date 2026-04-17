@@ -20,3 +20,12 @@ $$\hat{y} = w^T\mathbf{x}+b$$
 
 Goolge colab link: https://colab.research.google.com/drive/18c2jxY9T8Rnaq2LNGYkS-7H6zdkGB6bM?authuser=1
 
+## Exercises
+
+| Week | Topic              | Link to Colab |
+|------|-------------------|---------------|
+| 1    | Python and Jupyter | <a href="https://colab.research.google.com" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+|      | Pandas            | <a href="https://colab.research.google.com" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+|      | Plotting data     | <a href="https://colab.research.google.com" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+|      | Intro to RDKit    | <a href="https://colab.research.google.com" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+| 2    | Supervised ML     | <a href="https://colab.research.google.com" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
